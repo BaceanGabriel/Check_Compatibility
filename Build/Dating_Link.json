@@ -1,0 +1,13 @@
+{
+"companyName": "CompatibilityСheckCompany",
+"productName": "Compatibility Сheck",
+"dataUrl": "Dating_Link.data.unityweb",
+"wasmCodeUrl": "Dating_Link.wasm.code.unityweb",
+"wasmFrameworkUrl": "Dating_Link.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
